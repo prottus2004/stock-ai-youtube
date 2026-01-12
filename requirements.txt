@@ -1,1 +1,12 @@
+requests
+feedparser
+python-dotenv
+moviepy
+pillow
+tqdm
+edge-tts
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
 
